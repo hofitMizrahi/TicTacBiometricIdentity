@@ -1,0 +1,3 @@
+include ':BiometricIdentificationLib'
+include ':app'
+rootProject.name = "BiometricIdentificationLibrary"
